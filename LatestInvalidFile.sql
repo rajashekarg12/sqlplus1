@@ -1,1 +1,1 @@
-selec * from
+selec * from d
